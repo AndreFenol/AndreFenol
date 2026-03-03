@@ -1,9 +1,7 @@
-# 👨‍💻 Pete Andre Fenol 
-### BSCS - Machine Learning Student @ National University Dasmariñas
+# Hi there, I'm Andre! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AndreFenol&label=Profile%20views&color=0e75b6&style=flat" alt="AndreFenol" />
-</p>
+### 🤖 Machine Learning Student | 🚀 Aspiring Software Engineer
+I am a 3rd-year CS student at **National University Dasmariñas** specializing in **Machine Learning**. I love building intelligent systems and efficient software solutions.
 
 ---
 
