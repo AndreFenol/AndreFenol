@@ -16,9 +16,9 @@ I am a 3rd-year CS student at **National University Dasmariñas** specializing i
 ---
 
 ### 📁 Featured Projects
-- **[Grocery POS & Inventory System](https://github.com/AndreFenol/University-projs/tree/main/05-Major-Projects)**: A full-scale Java Swing application with MySQL integration for real-time stock management.
+- **[Grocery POS & Inventory System](https://github.com/AndreFenol/University-projs/tree/main/Major-Projects)**: A full-scale Java Swing application with MySQL integration for real-time stock management.
 - **[ML Predictive Modeling](https://github.com/AndreFenol/University-projs)**: Python-based data analysis and predictive models using Scikit-Learn and Pandas.
-- **[Data Structures Library](https://github.com/AndreFenol/University-projs/tree/main/03-Archives)**: Custom Java implementations of complex algorithms and data structures.
+- **[Data Structures Library](https://github.com/AndreFenol/University-projs/tree/main/Archives)**: Custom Java implementations of complex algorithms and data structures.
 
 ---
 
