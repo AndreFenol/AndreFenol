@@ -1,4 +1,4 @@
-# Hi there, I'm Andre! 👋
+# Hi there, I'm Andre! 
 
 ### 🤖 Machine Learning Student | 🚀 Aspiring Software Engineer
 I am a 3rd-year CS student at **National University Dasmariñas** specializing in **Machine Learning**. I love building intelligent systems and efficient software solutions.
