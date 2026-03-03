@@ -1,16 +1,17 @@
-# Hi there, I'm Andre! 
+# 👨‍💻 Pete Andre Fenol 
+### BSCS - Machine Learning Student @ National University Dasmariñas
 
-### 🤖 Machine Learning Student | 🚀 Aspiring Software Engineer
-I am a 3rd-year CS student at **National University Dasmariñas** specializing in **Machine Learning**. I love building intelligent systems and efficient software solutions.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AndreFenol&label=Profile%20views&color=0e75b6&style=flat" alt="AndreFenol" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,androidstudio,git,vscode,html,css" />
+  </a>
 </p>
 
 ---
