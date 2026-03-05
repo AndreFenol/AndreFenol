@@ -21,13 +21,6 @@ I am a 3rd-year CS student at **National University Dasmariñas** specializing i
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Andre's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 - 📧 Email: peteandrefenol@gmail.com
